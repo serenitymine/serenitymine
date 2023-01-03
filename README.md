@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**serenitymine/serenitymine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on .
+- 🌱 I’m currently learning Security 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with Security 
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I need help learning how to gain control & ownership over my router, all electronics devices, my computers, my phone & my wife's phone. Someone using GitHub, Apache license, Python, & JavaScript, etc, has claimed themselves admin over all my electronics devices.I didn't think it was possible, but apparently it is. They changed all group policy in windows 10, so I can't reset my computer or iPhones. I need someone that's expert with these kinds of things to help me. I only have little over a year to live, Melanoma has taken over.( Cancer , it's in the center lobe of my head( just outside my skull, next to my brain), & one more behind my right ear, also three more in my right lung). I don't want to spend the months I have left trying to get rid of a hacker & gain control of my devices. This hacker has caused strain on my marriage, & causing havoc in my life...
+-->
